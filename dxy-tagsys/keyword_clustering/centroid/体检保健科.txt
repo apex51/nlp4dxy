@@ -1,0 +1,50 @@
+cluster id:0
+center_word:45x0 confidence: 0.87443625927
+words in this cluster:
+无创产前检查 羊水分析 染色体综合征 低绿 环形染色体 tuener 俞自萍 edwards综合征 mafias 16qh 45x0 染色体病变 patau综合征 47xx 爱德华综合征 47xxx p11q13 常染色体异常 47xyy
+
+cluster id:1
+center_word:高钾血症 confidence: 0.903797626495
+words in this cluster:
+低血钾 低钾 低血钙 高血钾症 低钙血症 高镁 低钾血症 高钾血症 高血钾 低血镁 高镁血症 电解质紊乱 低氯性碱中毒
+
+cluster id:2
+center_word:核型 confidence: 0.917962789536
+words in this cluster:
+染色体检查 核型 性染色体 46xx 46xy 平衡易位 xxy 核型分析
+
+cluster id:3
+center_word:唐氏综合征 confidence: 0.864677667618
+words in this cluster:
+唐氏综合症 肠管回声增强 宫内生长迟缓 羊水穿刺 羊穿 神经管缺损 唐氏症 唐氏综合征 三体的 开放性神经管缺陷 胎儿畸形 胎儿异常
+
+cluster id:4
+center_word:染色体 confidence: 0.887374997139
+words in this cluster:
+染色体数目异常 非整倍性 染色体多态 染色体 臂间倒位 染色体分析 三倍体 染色体结构异常 标记染色体 三体性 非整倍体 47xxy 三体型 染色体缺失 整倍体 染色体组型
+
+cluster id:5
+center_word:色觉 confidence: 0.874779462814
+words in this cluster:
+红绿色盲 色觉 色弱
+
+cluster id:6
+center_word:三体 confidence: 0.874872744083
+words in this cluster:
+down综合征 先天愚型 常染色体畸变 三体 特纳综合征 18三体综合征 染色体病 45xo 21三体综合征 13三体综合征 胎儿水肿 turner综合征 小头畸形 染色体畸形 特纳氏综合征
+
+cluster id:7
+center_word:低磷血症 confidence: 0.9231107831
+words in this cluster:
+低磷血症 高钙血症 高磷血症
+
+cluster id:8
+center_word:低钠血症 confidence: 0.931650996208
+words in this cluster:
+低钠 氯血症 低钠血症 高钠血症
+
+cluster id:9
+center_word:镁缺乏 confidence: 0.878807783127
+words in this cluster:
+缺镁 镁血 低血镁症 磷血症 镁缺乏
+

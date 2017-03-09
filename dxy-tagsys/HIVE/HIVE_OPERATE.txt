@@ -1,0 +1,52 @@
++--------------------------+-----------------------+-----------------------+
+|         col_name         |       data_type       |        comment        |
++--------------------------+-----------------------+-----------------------+
+| id                       | int                   |                       |
+| disease_name_cn          | varchar(100)          |                       |
+| disease_name_entry_cn    | string                |                       |
+| disease_abbreviation_cn  | varchar(25)           |                       |
+| disease_name_en          | varchar(200)          |                       |
+| disease_name_entry_en    | string                |                       |
+| disease_abbreviation_en  | varchar(25)           |                       |
+| disease_update_time      | string                |                       |
+| disease_create_time      | string                |                       |
+| disease_treenumber       | varchar(500)          |                       |
+| disease_uniqueid         | varchar(25)           |                       |
+| isindex                  | int                   |                       |
+| description              | string                |                       |
+| disease_common           | tinyint               |                       |
+| wrong_writen             | varchar(200)          |                       |
+| pic_version              | varchar(50)           |                       |
+| disease_open             | tinyint               |                       |
+| cfj_definition           | string                |                       |
+| cfj_therapy              | string                |                       |
+| cfj_diagnosis            | string                |                       |
+| cfj_chapter              | varchar(255)          |                       |
+| defination               | string                |                       |
+| epidemiology             | string                |                       |
+| classification           | string                |                       |
+| disease_type             | varchar(50)           |                       |
+| etiology                 | string                |                       |
+| pathology                | string                |                       |
+| pathophysiology          | string                |                       |
+| diagnosis                | string                |                       |
+| differential             | string                |                       |
+| symptom                  | string                |                       |
+| treatment                | string                |                       |
+| prevention               | string                |                       |
+| test                     | string                |                       |
+| prognosis                | string                |                       |
+| complication             | string                |                       |
+| shown_in_app             | tinyint               |                       |
+| shown_in_weixin          | tinyint               |                       |
+| source                   | string                |                       |
+| status                   | tinyint               |                       |
+| popular_defination       | string                |                       |
+| popular_treatment        | string                |                       |
+| hp_stat_date             | string                |                       |
+|                          | NULL                  | NULL                  |
+| # Partition Information  | NULL                  | NULL                  |
+| # col_name               | data_type             | comment               |
+|                          | NULL                  | NULL                  |
+| hp_stat_date             | string                |                       |
++--------------------------+-----------------------+-----------------------+

@@ -1,0 +1,50 @@
+cluster id:0
+center_word:整形科 confidence: 0.899179935455
+words in this cluster:
+创疡 整形外科 烧伤科 整形科
+
+cluster id:1
+center_word:抑酸剂 confidence: 0.922983467579
+words in this cluster:
+抑酸剂 抑酸药 胃黏膜 抑酸药物 制酸剂 抑酸
+
+cluster id:2
+center_word:典张 confidence: 0.775511026382
+words in this cluster:
+冻疮 吸入性烧伤 贲门粘膜撕裂症 应激性胃炎 典张 急性出血性胃炎 放射烧伤 许丰勋 虽不达 胃十二指肠溃疡大出血
+
+cluster id:3
+center_word:上消化道出血 confidence: 0.920316278934
+words in this cluster:
+急性糜烂出血性胃炎 消化道大出血 胃肠道出血 消化性溃疡 急性上消化道出血 上消化道出血 急性胃黏膜病变 胃出血 消化性溃疡出血 消化道出血 急性胃粘膜病变
+
+cluster id:4
+center_word:烧伤 confidence: 0.867354333401
+words in this cluster:
+小儿烧伤 面部烧伤 浅度 大面积烧伤 烧烫伤 三度烧伤 轻度烧伤 创面处理 小儿烫伤 吸入性损伤 严重烧伤 烧伤 重度烧伤 烫伤 特重烧伤
+
+cluster id:5
+center_word:切痂 confidence: 0.96952188015
+words in this cluster:
+削痂 切痂
+
+cluster id:6
+center_word:出血性胃炎 confidence: 1.0
+words in this cluster:
+出血性胃炎
+
+cluster id:7
+center_word:热压伤 confidence: 0.896623551846
+words in this cluster:
+皮肤撕脱伤 电击伤 热压伤 电烧伤
+
+cluster id:8
+center_word:化学烧伤 confidence: 0.849501609802
+words in this cluster:
+眼烧伤 化学性烧伤 酸烧伤 化学烧伤 碱烧伤 化学灼伤
+
+cluster id:9
+center_word:烧伤休克 confidence: 0.90933483839
+words in this cluster:
+烧伤休克 休克期
+
